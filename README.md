@@ -4,6 +4,7 @@ Better looking Waterfall FX for KSP's RCS thrusters.
 I have WinterSabe to thank for walking me through setting up all of the cursed ModuleManager code to make this work.
 
 **-=Changelog=-**
+
 v0.1.1
 -Added Hydrolox and Methalox plumes
 -Updated ISP-based plumes to be more realistic and less goofy looking
