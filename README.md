@@ -5,16 +5,21 @@ I have WinterSabe to thank for walking me through setting up all of the cursed M
 
 **-=Changelog=-**
 
-v0.1.1
+v0.1.2 - 12/22/2025
+-Hotfix, Hydrolox and Methalox RCSShocks were erroneously angled 90 degrees and also didn't respond to thrust inputs.
+
+v0.1.1  - 12/22/2025
 -Added Hydrolox and Methalox plumes
 -Updated ISP-based plumes to be more realistic and less goofy looking
 -Specifically fixed BetterRCS_Base so the jelly effect isn't wildly expanded in vacuum
 
-v0.1.0
+v0.1.0 12/21/2025
 -Added Regex based separation of RCS thruster types based on ISP
 -Added 4 basic plumes for each thruster type
 
 
-Known Issues:
+# Known Issues:
 
-Some thrusters are known to have incorrect plume placement, namely the Vernor Thruster.
+*In order for thrusters to be compatible, they must already have a waterfall configuration.*
+
+Some thrusters are known to have incorrect plume placement, namely the stock Vernor Thruster.
