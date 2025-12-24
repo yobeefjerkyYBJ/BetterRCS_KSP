@@ -5,6 +5,9 @@ I have WinterSabe to thank for walking me through setting up all of the cursed M
 
 **-=Changelog=-**
 
+v0.1.3 - 12/24/2025
+-Fixes for Tundra's RCS thrusters plus a couple stock and one iRCS thruster.
+
 v0.1.2 - 12/22/2025
 -Hotfix, Hydrolox and Methalox RCSShocks were erroneously angled 90 degrees and also didn't respond to thrust inputs.
 
