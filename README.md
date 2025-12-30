@@ -5,6 +5,11 @@ I have WinterSabe to thank for walking me through setting up all of the cursed M
 
 **-=Changelog=-**
 
+**v0.1.5 - 12/29/2025**
+
+-Made the template replacement consider whether or not the template to replace uses an RCS controller.
+
+-Honestly that was a massive oversight.
 
 **v0.1.4 - 12/25/2025**
 
