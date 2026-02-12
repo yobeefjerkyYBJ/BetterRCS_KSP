@@ -5,6 +5,10 @@ I have WinterSabe to thank for walking me through setting up all of the cursed M
 
 **-=Changelog=-**
 
+**v0.1.6 - 2/12/2026**
+
+-Made the Regex patch now properly modify parts with multiple ModuleRCSFX
+
 **v0.1.5 - 12/29/2025**
 
 -Made the template replacement consider whether or not the template to replace uses an RCS controller.
@@ -43,5 +47,7 @@ I have WinterSabe to thank for walking me through setting up all of the cursed M
 # Known Issues:
 
 *In order for thrusters to be compatible, they must already have a waterfall configuration.*
+
+*Parts with multiple ModuleRCSFX modules likely won't have different plume templates, this is due to a limitation in what is possible with a modulemanager patch.*
 
 Some thrusters are known to have incorrect plume placement, namely the stock Vernor Thruster.
