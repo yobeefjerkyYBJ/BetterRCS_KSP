@@ -1,6 +1,6 @@
 <img width="2694" height="606" alt="image" src="https://github.com/user-attachments/assets/b386a93b-46aa-4ef7-b07f-50b0162fc77f" />
 
-# BetterRCS_KSP
+# -=BetterRCS_KSP=-
 Better looking Waterfall FX for KSP's RCS thrusters.
 
 For a long time I've been dissatisfied with KSP's RCS thrusters, only really using BDB's because they had the longer plumes that actual RCS thrusters have. The release of a playable build of KSA, and the RCS effects in that game in general, spurred me to actually do something about the problem. BetterRCS is what came of that, replacing every RCS thruster plume in the game (including all modded thrusters) to come closer to reality.
@@ -8,13 +8,13 @@ For a long time I've been dissatisfied with KSP's RCS thrusters, only really usi
 I need to thank WarriorSabe on the Kerbal Community discord server, as they essentially gave me a crash course in the dark arts of ModuleManager. Without them, this mod wouldn't have been possible in the way that it is now.
 
 
-# Known Issues:
+# -=Known Issues=-
 
 *In order for thrusters to be compatible, they must already have a waterfall configuration.*
 
 *Parts with multiple ModuleRCSFX modules likely won't have different plume templates, this is due to a limitation in what is possible with a modulemanager patch.*
 
-Some thrusters are known to have incorrect plume placement, this includes some Restock RCS thrusters, please report any issues found with placement and include the specific mod and part so that I can reproduce the problem.
+*Some thrusters are known to have incorrect plume placement, this includes some Restock RCS thrusters, **please report any issues found with placement and include the specific mod and part so that I can reproduce the problem.***
 
 # -=Changelog=-
 
