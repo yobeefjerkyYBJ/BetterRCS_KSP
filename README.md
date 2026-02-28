@@ -18,6 +18,11 @@ I need to thank WarriorSabe on the Kerbal Community discord server, as they esse
 
 # -=Changelog=-
 
+**v0.1.7 - 2/26/2026**
+
+-Aesthetic update to plumes to make the atmospheric effects a bit less awful.
+
+
 **v0.1.6 - 2/12/2026**
 
 -Made the Regex patch now properly modify parts with multiple ModuleRCSFX
