@@ -61,7 +61,7 @@ I need to thank WarriorSabe on the Kerbal Community discord server, as they esse
 -Specifically fixed BetterRCS_Base so the jelly effect isn't wildly expanded in vacuum
 
 
-**v0.1.0 12/21/2025**
+**v0.1.0 - 12/21/2025**
 
 -Added Regex based separation of RCS thruster types based on ISP
 
