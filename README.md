@@ -7,6 +7,7 @@ For a long time I've been dissatisfied with KSP's RCS thrusters, only really usi
 
 I need to thank WarriorSabe on the Kerbal Community discord server, as they essentially gave me a crash course in the dark arts of ModuleManager. Without them, this mod wouldn't have been possible in the way that it is now.
 
+*This mod is currently __incompatible__ with Realism Overhaul, there is no timeline for a fix to make it work, it is intentionally disabled when RO is detected from v0.1.8 on.*
 
 # -=Known Issues=-
 
