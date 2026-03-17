@@ -19,7 +19,7 @@ I need to thank WarriorSabe on the Kerbal Community discord server, as they esse
 
 # -=Changelog=-
 
-**v0.1.8 - 3/12/2026**
+ [] **v0.1.8 - 3/12/2026** []
 
 *Mod **disabled** automatically when RO is detected.*
 
@@ -28,41 +28,41 @@ I need to thank WarriorSabe on the Kerbal Community discord server, as they esse
 -Methalox visual improved.
 
 
-**v0.1.7 - 2/26/2026**
+ [] **v0.1.7 - 2/26/2026** [] 
 
 -Aesthetic update to plumes to make the atmospheric effects a bit less awful.
 
 
-**v0.1.6 - 2/12/2026**
+ [] **v0.1.6 - 2/12/2026** [] 
 
 -Made the Regex patch now properly modify parts with multiple ModuleRCSFX
 
 
-**v0.1.5 - 12/29/2025**
+ [] **v0.1.5 - 12/29/2025** [] 
 
 -Made the template replacement consider whether or not the template to replace uses an RCS controller.
 
 -Honestly that was a massive oversight.
 
 
-**v0.1.4 - 12/25/2025**
+ [] **v0.1.4 - 12/25/2025** [] 
 
 -Updated BetterRCS_Base to look better.
 
 -Refined support for InternalRCS.
 
 
-**v0.1.3 - 12/24/2025**
+ [] **v0.1.3 - 12/24/2025** [] 
 
 -Fixes for Tundra's RCS thrusters plus a couple stock and one iRCS thruster.
 
 
-**v0.1.2 - 12/22/2025**
+ [] **v0.1.2 - 12/22/2025** [] 
 
 -Hotfix, Hydrolox and Methalox RCSShocks were erroneously angled 90 degrees and also didn't respond to thrust inputs.
 
 
-**v0.1.1  - 12/22/2025**
+ [] **v0.1.1  - 12/22/2025** [] 
 
 -Added Hydrolox and Methalox plumes
 
@@ -71,7 +71,7 @@ I need to thank WarriorSabe on the Kerbal Community discord server, as they esse
 -Specifically fixed BetterRCS_Base so the jelly effect isn't wildly expanded in vacuum
 
 
-**v0.1.0 - 12/21/2025**
+ [] **v0.1.0 - 12/21/2025** [] 
 
 -Added Regex based separation of RCS thruster types based on ISP
 
