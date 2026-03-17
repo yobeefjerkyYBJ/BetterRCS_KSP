@@ -19,6 +19,15 @@ I need to thank WarriorSabe on the Kerbal Community discord server, as they esse
 
 # -=Changelog=-
 
+**v0.1.8 - 3/13/2026**
+
+*Mod **disabled** automatically when RO is detected.*
+
+-Regex fixes for Vernor RCS.
+
+-Methalox visual improved.
+
+
 **v0.1.7 - 2/26/2026**
 
 -Aesthetic update to plumes to make the atmospheric effects a bit less awful.
