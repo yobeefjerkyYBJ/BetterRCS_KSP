@@ -19,7 +19,7 @@ I need to thank WarriorSabe on the Kerbal Community discord server, as they esse
 
 # -=Changelog=-
 
-**v0.1.8 - 3/13/2026**
+**v0.1.8 - 3/12/2026**
 
 *Mod **disabled** automatically when RO is detected.*
 
