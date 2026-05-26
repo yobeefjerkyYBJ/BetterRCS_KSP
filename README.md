@@ -19,6 +19,12 @@ I need to thank WarriorSabe on the Kerbal Community discord server, as they esse
 
 # -=Changelog=-
 
+ [] **v0.1.9 - 5/26/2026** []
+
+-Implemented config to allow users to selectively disable the mod for specific parts.
+-Fixed InternalRCS monoprop engines.
+-Added neat new description suffix to indicate what thrusters have BetterRCS support.
+
  [] **v0.1.8 - 3/12/2026** []
 
 *Mod **disabled** automatically when RO is detected.*
