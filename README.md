@@ -26,6 +26,7 @@ I need to thank WarriorSabe on the Kerbal Community discord server, as they esse
 -Added neat new description suffix to indicate what thrusters have BetterRCS support.
 
 (v0.1.9a)
+
 -Quick patch to re-implement a check that prevents BetterRCS from trying to process parts without waterfall configs.
 
  [] **v0.1.8 - 3/12/2026** []
